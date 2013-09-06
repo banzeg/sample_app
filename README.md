@@ -4,4 +4,4 @@
 [*Перевод Ruby on Rails Tutorial: Изучение Rails на Примерах*](http://railstutorial.org/)
 by [Майкл Хартл](http://michaelhartl.com/).
 
-http://railstutorial.ru/chapters/static-pages#sec-first_tests
+http://railstutorial.ru/chapters/static-pages#sec-spork
